@@ -1,0 +1,4 @@
+TableName~ColumnName~Datatype~Constraints
+user~name~STRING~not null,unique
+user~id~INT~
+test~id~INT~

@@ -1,0 +1,9 @@
+TimeStamp:2021-11-28 18:39:13.096~User:SDEY~Status:Invalid~Query:uewhdiuwehuiwe;~Database:DB1
+TimeStamp:2021-11-28 18:39:13.096~User:SDEY~Status:Valid~Query:SELECT abc from dual;~Database:DB1~Table:Department~Operation:UPDATE~ExecutionTime:128ms
+TimeStamp:2021-11-28 18:39:13.096~User:SDEY~Status:Valid~Query:SELECT abc from dual;~Database:DB1~Table:Department~Operation:UPDATE~ExecutionTime:128ms
+TimeStamp:2021-11-28 18:39:13.096~User:SDEY~Status:Valid~Query:SELECT abc from dual;~Database:DB1~Table:Employee~Operation:UPDATE~ExecutionTime:128ms
+TimeStamp:2021-11-28 18:39:13.096~User:SDEY~Status:Valid~Query:SELECT abc from dual;~Database:DB1~Table:Department~Operation:SELECT~ExecutionTime:128ms
+TimeStamp:2021-11-28 18:39:13.096~User:rahul~Status:Valid~Query:SELECT abc from dual;~Database:DB1~Table:Department~Operation:SELECT~ExecutionTime:128ms
+TimeStamp:2021-11-28 18:39:13.096~User:rahul~Status:Valid~Query:SELECT abc from dual;~Database:DB1~Table:Department~Operation:SELECT~ExecutionTime:128ms
+TimeStamp:2021-11-28 18:39:13.096~User:rahul~Status:Valid~Query:SELECT abc from dual;~Database:DB1~Table:Department~Operation:SELECT~ExecutionTime:128ms
+TimeStamp:2021-11-28 18:39:13.096~User:rahul~Status:Valid~Query:SELECT abc from dual;~Database:DB1~Table:Department~Operation:SELECT~ExecutionTime:128ms

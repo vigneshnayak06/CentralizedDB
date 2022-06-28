@@ -1,0 +1,35 @@
+TimeStamp:2021-12-06 17:29:09.23~User:SDEY~Query:count queries db1;~Result:User SDEY submitted 0 queries on db1
+TimeStamp:2021-12-06 17:33:00.588~User:SDEY~Query:count queries db1;~Result:User SDEY submitted 0 queries on db1
+TimeStamp:2021-12-06 17:37:41.984~User:SDEY~Query:count queries db1;~Result:User SDEY submitted 5 queries on db1
+TimeStamp:2021-12-06 17:49:36.693~User:SDEY~Query:count queries db1;~Result:User SDEY submitted 5 queries on db1
+TimeStamp:2021-12-06 17:49:57.332~User:SDEY~Query:count invalid queries db1;~Result:User SDEY submitted 1 invalid queries on db1
+TimeStamp:2021-12-06 18:06:31.983~User:SDEY~Query:count invalid queries db1;~Result:User SDEY submitted 1 invalid queries on db1
+TimeStamp:2021-12-06 19:29:57.399~User:SDEY~Query:count update queries db1;~User SDEY performed 1 update queries on Employee in db1!User SDEY performed 2 update queries on Department in db1!
+TimeStamp:2021-12-07 14:19:59.747~User:SDEY~Query:count queries db1;~Result:User SDEY submitted 5 queries on db1!
+TimeStamp:2021-12-07 14:36:49.045~User:SDEY~Query:count queries db1;~Result:User SDEY submitted 5 queries on db1!
+TimeStamp:2021-12-07 14:36:59.475~User:SDEY~Query:count valid queries db1;~Result:User SDEY submitted 4 valid queries on db1!
+TimeStamp:2021-12-07 14:37:08.728~User:SDEY~Query:count invalid queries db1;~Result:User SDEY submitted 1 invalid queries on db1!
+TimeStamp:2021-12-07 14:39:17.04~User:SDEY~Query:count update queries db1;~User SDEY performed 1 update queries on Employee in db1!User SDEY performed 2 update queries on Department in db1!
+TimeStamp:2021-12-07 14:39:58.698~User:SDEY~Query:count delete queries db1;~User SDEY performed 0 delete queries on Employee in db1!User SDEY performed 0 delete queries on Department in db1!
+TimeStamp:2021-12-07 14:49:12.523~User:SDEY~Query:count delete queries db1;~User SDEY performed 0 delete queries on Employee in db1!User SDEY performed 0 delete queries on Department in db1!
+TimeStamp:2021-12-07 14:51:25.888~User:SDEY~Query:count queries db1;~Result:User SDEY submitted 5 queries on db1!
+TimeStamp:2021-12-07 14:53:21.206~User:SDEY~Query:count queries db1;~Result:User SDEY submitted 5 queries on db1!
+TimeStamp:2021-12-07 14:53:55.968~User:SDEY~Query:count update queries db1;~User SDEY performed 1 update queries on Employee in db1!User SDEY performed 2 update queries on Department in db1!
+TimeStamp:2021-12-07 14:58:09.314~User:rahul~Query:count queries db1;~Result:User rahul submitted 0 queries on db1!
+TimeStamp:2021-12-07 14:58:44.357~User:rahul~Query:count update queries db1;~User rahul performed 0 update queries on Employee in db1!User rahul performed 0 update queries on Department in db1!
+TimeStamp:2021-12-07 15:01:38.141~User:rahul~Query:count queries db1;~Result:User rahul submitted 4 queries on db1!
+TimeStamp:2021-12-07 15:03:05.568~User:rahul~Query:count update queries db1;~User rahul performed 0 update queries on Employee in db1!User rahul performed 0 update queries on Department in db1!
+TimeStamp:2021-12-07 15:28:03.402~User:rahul~Query:count queries db1;~Result:User rahul submitted 4 queries on db1!
+TimeStamp:2021-12-07 15:28:25.85~User:rahul~Query:count valid queries db1;~Result:User rahul submitted 4 valid queries on db1!
+TimeStamp:2021-12-07 15:43:54.859~User:rahul~Query:count queries db1;~Result:User rahul submitted 4 queries on db1!
+TimeStamp:2021-12-07 15:44:08.542~User:rahul~Query:count update queries db1;~User rahul performed 0 update queries on employee in db1!User rahul performed 0 update queries on department in db1!
+TimeStamp:2021-12-07 15:55:10.33~User:rahul~Query:count delete queries db1;~User rahul performed 0 delete queries on employee in db1!User rahul performed 0 delete queries on department in db1!
+TimeStamp:2021-12-07 15:57:03.46~User:rahul~Query:count queries db1;~Result:User rahul submitted 4 queries on db1!
+TimeStamp:2021-12-07 15:57:15.574~User:rahul~Query:count update queries db1;~User rahul performed 0 update queries on employee in db1!User rahul performed 0 update queries on department in db1!
+TimeStamp:2021-12-07 15:58:46.86~User:rahul~Query:count queries db1;~Result:User rahul submitted 4 queries on db1!
+TimeStamp:2021-12-07 15:58:56.332~User:rahul~Query:count update queries db1;~User rahul performed 0 update queries on employeedetails in db1!User rahul performed 0 update queries on departmentdetails in db1!User rahul performed 0 update queries on facilitiesdetails in db1!
+TimeStamp:2021-12-07 20:55:34.935~User:rahul~Query:count queries db1;~Result:User rahul submitted 4 queries on db1!
+TimeStamp:2021-12-08 11:36:59.851~User:rahul~Query:count queries db1;~Result:User rahul submitted 4 queries on db1!
+TimeStamp:2021-12-08 11:37:19.527~User:rahul~Query:count valid queries db1;~Result:User rahul submitted 4 valid queries on db1!
+TimeStamp:2021-12-08 11:37:36.557~User:rahul~Query:count update queries db1;~User rahul performed 0 update queries on employeedetails in db1!User rahul performed 0 update queries on departmentdetails in db1!User rahul performed 0 update queries on facilitiesdetails in db1!
+TimeStamp:2021-12-08 11:38:14.692~User:rahul~Query:count update queries testdb;~User rahul performed 0 update queries on user in testdb!User rahul performed 0 update queries on test in testdb!
